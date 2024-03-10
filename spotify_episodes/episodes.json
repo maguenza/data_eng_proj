@@ -1,0 +1,810 @@
+{
+    "href": "https://api.spotify.com/v1/shows/07SjDmKb9iliEzpNcN2xGD/episodes?offset=0&limit=20&market=US",
+    "items": [
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/8018e33ebc1e0c748dfeeb87fe475d41a51e3e4d",
+            "description": "The Ringer's Bill Simmons is joined by Rob Mahoney to discuss the Celtics' blowout win over the Bucks and a deadlocked MVP race (1:16). They then discuss the newfound strength of the Western Conference, where the 76ers rank among playoff contenders, exciting Western playoff matchups, and more (21:54). Later, Bill talks with David Shoemaker and Kazeem Famuyide about \u2018WrestleMania 39,\u2019 the spectacle of Omos vs. Brock Lesnar, Logan Paul's surprising assimilation into the WWE, best WrestleMania matches, and more (50:35).Host: Bill SimmonsGuests: Rob Mahoney, David Shoemaker, and Kazeem FamuyideProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 5507657,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/0Bn5cHhI9XjHXICrZupOoQ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0Bn5cHhI9XjHXICrZupOoQ",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Rob Mahoney to discuss the Celtics&#39; blowout win over the Bucks and a deadlocked MVP race (1:16). They then discuss the newfound strength of the Western Conference, where the 76ers rank among playoff contenders, exciting Western playoff matchups, and more (21:54). Later, Bill talks with David Shoemaker and Kazeem Famuyide about \u2018WrestleMania 39,\u2019 the spectacle of Omos vs. Brock Lesnar, Logan Paul&#39;s surprising assimilation into the WWE, best WrestleMania matches, and more (50:35).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Rob Mahoney, David Shoemaker, and Kazeem Famuyide</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "0Bn5cHhI9XjHXICrZupOoQ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "Celts-Bucks Lessons, L.A.'s Looming Playoff Palooza, and Best \u2018WrestleMania 39\u2019 Story Lines With Rob Mahoney, David Shoemaker, and Kazeem Famuyide",
+            "release_date": "2023-03-31",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0Bn5cHhI9XjHXICrZupOoQ"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/389074a90a2285e1874be10ecb65cc12176038bd",
+            "description": "The Ringer's Bill Simmons is joined by Mallory Rubin to discuss the relationship between the Ravens and Lamar Jackson seemingly hitting rock bottom, the four likeliest contenders to trade for Lamar, whether the Ravens will push for a trade before the NFL draft, where Lamar ranks among the current top QBs, and more (2:53). Then, Bill talks with Kevin Wildes of Fox Sports about rumors of the Patriots being interested in trading for Lamar, the relationship between Bill Belichick and Patriots ownership, and the Warriors' ideal playoff opponent (42:47) before they fire up one of America's favorite segments, Half-Baked Ideas (1:13:26)!Host: Bill SimmonsGuests: Mallory Rubin and Kevin WildesProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 6508251,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/1edQLB8op5hptkr2k6M6Fp"
+            },
+            "href": "https://api.spotify.com/v1/episodes/1edQLB8op5hptkr2k6M6Fp",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Mallory Rubin to discuss the relationship between the Ravens and Lamar Jackson seemingly hitting rock bottom, the four likeliest contenders to trade for Lamar, whether the Ravens will push for a trade before the NFL draft, where Lamar ranks among the current top QBs, and more (2:53). Then, Bill talks with Kevin Wildes of Fox Sports about rumors of the Patriots being interested in trading for Lamar, the relationship between Bill Belichick and Patriots ownership, and the Warriors&#39; ideal playoff opponent (42:47) before they fire up one of America&#39;s favorite segments, Half-Baked Ideas (1:13:26)!</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Mallory Rubin and Kevin Wildes</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "1edQLB8op5hptkr2k6M6Fp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "The Lamar Sweepstakes With Mallory Rubin. Plus, Half-Baked Ideas With Kevin Wildes.",
+            "release_date": "2023-03-29",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:1edQLB8op5hptkr2k6M6Fp"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/0abd083b56dd55a536f716694aaa3d144741b927",
+            "description": "The Ringer's Bill Simmons is joined by Ryen Russillo to discuss the Mavericks being in panic mode and the consequences of wasting another prime Luka Doncic year (2:25). Plus, Lakers predictions, the Grizzlies finding their groove again, and a really important Bucks-Nuggets game (34:00). Then they run through the scariest Eastern play-in teams, the Warriors\u2019 playoff hopes if they secure the 5-seed vs. the 6-seed, the Celtics\u2019 stabilization, and more (49:19), before closing with MVP, All-NBA, Dumbest Team of The Year: 2023 Edition, The Retradeables: The Porzingis Trade, March Madness thoughts, and more (1:09:35).Host: Bill SimmonsGuest: Ryen RussilloProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 6806151,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/7zoDi8gb8klgjlPsv9aHjc"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7zoDi8gb8klgjlPsv9aHjc",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Ryen Russillo to discuss the Mavericks being in panic mode and the consequences of wasting another prime Luka Doncic year (2:25). Plus, Lakers predictions, the Grizzlies finding their groove again, and a really important Bucks-Nuggets game (34:00). Then they run through the scariest Eastern play-in teams, the Warriors\u2019 playoff hopes if they secure the 5-seed vs. the 6-seed, the Celtics\u2019 stabilization, and more (49:19), before closing with MVP, All-NBA, Dumbest Team of The Year: 2023 Edition, The Retradeables: The Porzingis Trade, March Madness thoughts, and more (1:09:35).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guest: Ryen Russillo</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "7zoDi8gb8klgjlPsv9aHjc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "A Mavs Tailspin, Luka\u2019s Future, LeBron\u2019s Feet, and Playoff Seed Dodgeball With Ryen Russillo",
+            "release_date": "2023-03-27",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7zoDi8gb8klgjlPsv9aHjc"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/49299d33257faf9a691eb5a7aaa85bae8369aac2",
+            "description": "The Ringer's Bill Simmons is joined by Danny Kelly and ESPN's Mina Kimes to discuss the biggest NFL offseason story lines so far, including the Panthers' no. 1 overall draft pick, Lamar Jackson's future, the Lions as the favorite in the NFC North, Sean Payton's first season as the Broncos HC, and the Aaron Rodgers saga (1:34). Then Bill talks with Michael Pina about Karl Anthony Towns's return to the Timberwolves, most fun Western Conference play-in matchups, first team All-NBA conundrums, and more (1:07:24).Host: Bill SimmonsGuests: Mina Kimes, Danny Kelly, and Michael PinaProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 5582315,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/4pivKwMLA8weNjjeIaTsFZ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4pivKwMLA8weNjjeIaTsFZ",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Danny Kelly and ESPN&#39;s Mina Kimes to discuss the biggest NFL offseason story lines so far, including the Panthers&#39; no. 1 overall draft pick, Lamar Jackson&#39;s future, the Lions as the favorite in the NFC North, Sean Payton&#39;s first season as the Broncos HC, and the Aaron Rodgers saga (1:34). Then Bill talks with Michael Pina about Karl Anthony Towns&#39;s return to the Timberwolves, most fun Western Conference play-in matchups, first team All-NBA conundrums, and more (1:07:24).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Mina Kimes, Danny Kelly, and Michael Pina</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "4pivKwMLA8weNjjeIaTsFZ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "Most Fun NFL Offseason Story Lines With Mina Kimes and Danny Kelly, Plus West Play-In Roulette With Michael Pina",
+            "release_date": "2023-03-24",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4pivKwMLA8weNjjeIaTsFZ"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/19c2f855233e093f76915393b4857414ae169e58",
+            "description": "The Ringer's Bill Simmons is joined by Logan Murdock to discuss his new article on Jaylen Brown. They discuss his approach to the piece, Jaylen finding his place as a member of the Celtics, his upcoming contract, and more (2:02). Then, Bill sits down with Matt Damon and Ben Affleck to discuss their longtime friendship; sharing apartments and bank accounts; starting their own studio; tabloids and paparazzi; the '90s movie era; their new film, 'Air'; and more (29:27).Host: Bill SimmonsGuests: Matt Damon, Ben Affleck, and Logan MurdockProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 6066076,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/6gw5IqP3xnRlTXiCoih5fD"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6gw5IqP3xnRlTXiCoih5fD",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Logan Murdock to discuss his new article on Jaylen Brown. They discuss his approach to the piece, Jaylen finding his place as a member of the Celtics, his upcoming contract, and more (2:02). Then, Bill sits down with Matt Damon and Ben Affleck to discuss their longtime friendship; sharing apartments and bank accounts; starting their own studio; tabloids and paparazzi; the &#39;90s movie era; their new film, &#39;Air&#39;; and more (29:27).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Matt Damon, Ben Affleck, and Logan Murdock</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "6gw5IqP3xnRlTXiCoih5fD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "Matt Damon and Ben Affleck on Four Decades of Friendship and Movies. Plus, Logan Murdock on the Jaylen Brown Saga.",
+            "release_date": "2023-03-22",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6gw5IqP3xnRlTXiCoih5fD"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/5695aebe0bf2e8953a64631a9a602d72b687575b",
+            "description": "The Ringer's Bill Simmons is joined by Ryen Russillo and they start by talking about how wide open the race for the NBA title is and who some of their favorites are. Then they put into context some of the historic numbers we've seen the best guys in the league put up this season (24:21). They also discuss the Atlanta Hawks continued struggles after blowing a 24-point lead to the San Antonio Spurs (1:38:25) before talking about some of their March Madness observations and takeaways.Host: Bill SimmonsGuest: Ryen RussilloProducers: Isaiah Blakely, Kyle Crichton, and Steve Ceruti Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 6377273,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/6ZF7D1RutsNgyFmfSVuPn7"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6ZF7D1RutsNgyFmfSVuPn7",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Ryen Russillo and they start by talking about how wide open the race for the NBA title is and who some of their favorites are. Then they put into context some of the historic numbers we&#39;ve seen the best guys in the league put up this season (24:21). They also discuss the Atlanta Hawks continued struggles after blowing a 24-point lead to the San Antonio Spurs (1:38:25) before talking about some of their March Madness observations and takeaways.</p><p>Host: Bill Simmons</p><p>Guest: Ryen Russillo</p><p>Producers: Isaiah Blakely, Kyle Crichton, and Steve Ceruti</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "6ZF7D1RutsNgyFmfSVuPn7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "An NBA Title Mystery, a \u2018Historic Scoring\u201d Dilemma, Atlanta\u2019s Woes and  March Madness with Ryen Russillo",
+            "release_date": "2023-03-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6ZF7D1RutsNgyFmfSVuPn7"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/3246a2684918491dc6a0ddde1a20a603a0f128ae",
+            "description": "The Ringer's Bill Simmons shares his thoughts on generational talents Steph Curry and Aaron Rodgers (1:06) before he is joined by Joe House and Wosny Lambre for the second annual NBA Worst Contracts Draft. One by one, they draft the 21 worst NBA contracts in 2023 (19:06).Host: Bill SimmonsGuests: Joe House and Wosny LambreProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 6273253,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/6CONgq4M0VXYLAM3MgamZT"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6CONgq4M0VXYLAM3MgamZT",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons shares his thoughts on generational talents Steph Curry and Aaron Rodgers (1:06) before he is joined by Joe House and Wosny Lambre for the second annual NBA Worst Contracts Draft. One by one, they draft the 21 worst NBA contracts in 2023 (19:06).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Joe House and Wosny Lambre</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "6CONgq4M0VXYLAM3MgamZT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "Curry vs. Rodgers, Plus Drafting the Worst NBA Contracts With Joe House and Wosny Lambre",
+            "release_date": "2023-03-17",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6CONgq4M0VXYLAM3MgamZT"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/c65bd440a38c2b5f30266d73ff9e791023a95840",
+            "description": "The Ringer's Bill Simmons is joined by Kevin O'Connor to discuss the Nuggets' struggles, who can win the West, the return of the NBA center position, NBA draft prospects, and more (1:44). Then, Bill talks with Tate Frazier about his five favorite March Madness bets, tournament narratives, best characters, and more (37:16). Finally, Bill is joined by former head writer of WWE Brian Gewirtz to discuss the idea of gambling on pro wrestling; keeping secrets within the company; the insanity of the \"Hardcore Era\"; theories behind Vince McMahon's return; Brian's new book, 'There's Just One Problem ... : True Tales From the Former, One-Time, 7th Most Powerful Person in WWE'; and more (1:13:09).Host: Bill SimmonsGuests: Kevin O\u2019Connor, Tate Frazier, and Brian GewirtzProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 6712032,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/4AjG4cQ7j4ybzNkmUeblFA"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4AjG4cQ7j4ybzNkmUeblFA",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Kevin O&#39;Connor to discuss the Nuggets&#39; struggles, who can win the West, the return of the NBA center position, NBA draft prospects, and more (1:44). Then, Bill talks with Tate Frazier about his five favorite March Madness bets, tournament narratives, best characters, and more (37:16). Finally, Bill is joined by former head writer of WWE Brian Gewirtz to discuss the idea of gambling on pro wrestling; keeping secrets within the company; the insanity of the &#34;Hardcore Era&#34;; theories behind Vince McMahon&#39;s return; Brian&#39;s new book, &#39;There&#39;s Just One Problem ... : True Tales From the Former, One-Time, 7th Most Powerful Person in WWE&#39;; and more (1:13:09).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Kevin O\u2019Connor, Tate Frazier, and Brian Gewirtz</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "4AjG4cQ7j4ybzNkmUeblFA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "The NBA Center Revolution, March Madness Picks, and the WWE\u2019s Gambling Idea With Kevin O\u2019Connor, Tate Frazier, and Brian Gewirtz",
+            "release_date": "2023-03-15",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4AjG4cQ7j4ybzNkmUeblFA"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/caebf9e2970f4e2703bbfd13e3e19380bc4c5e13",
+            "description": "The Ringer\u2019s Bill Simmons is joined by Ryen Russillo to discuss whether the Kings have a legit shot at winning the Western Conference and if De'Aaron Fox is getting enough love (2:35). Then, they talk about why there\u2019s a good chance Joel Embiid is going to win the MVP over Nikola Jokic and why Jokic shouldn't mind losing it (44:57). Finally, they close it out with some All-NBA team debates (1:12:54) and a Retradeables segment breaking down when Deron Williams got traded to the Nets.Host: Bill SimmonsGuest: Ryen RussilloProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 6439366,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/4Q0BvRhewqVIBp0x2qt8Nw"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4Q0BvRhewqVIBp0x2qt8Nw",
+            "html_description": "<p>The Ringer\u2019s Bill Simmons is joined by Ryen Russillo to discuss whether the Kings have a legit shot at winning the Western Conference and if De&#39;Aaron Fox is getting enough love (2:35). Then, they talk about why there\u2019s a good chance Joel Embiid is going to win the MVP over Nikola Jokic and why Jokic shouldn&#39;t mind losing it (44:57). Finally, they close it out with some All-NBA team debates (1:12:54) and a Retradeables segment breaking down when Deron Williams got traded to the Nets.</p><p><br /></p><p>Host: Bill Simmons</p><p>Guest: Ryen Russillo</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "4Q0BvRhewqVIBp0x2qt8Nw",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "Sacramento\u2019s Sleeper Potential, More MVP Arguments, and a Bizarre All-NBA Situation With Ryen Russillo",
+            "release_date": "2023-03-13",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4Q0BvRhewqVIBp0x2qt8Nw"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/306fc73b94f2ccf04ffc47316c16fae31a9484c7",
+            "description": "The Ringer\u2019s Bill Simmons is joined by Sheil Kapadia and John Jastremski to discuss the likelihood of Aaron Rodgers being traded to the Jets, Daniel Jones\u2019s contract extension, and what Lamar Jackson\u2019s nonexclusive franchise tag indicates about his future and possible new teams (2:12). Then Bill is joined by Sean Fennessey for the annual Oscars Preview. They discuss odds, predictions, their favorite films, and more (55:44).Host: Bill SimmonsGuests: Sheil Kapadia, John Jastremski and Sean FennesseyProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 5561208,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/6IvRFzXJhYb7NlgCtkTXcF"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6IvRFzXJhYb7NlgCtkTXcF",
+            "html_description": "<p>The Ringer\u2019s Bill Simmons is joined by Sheil Kapadia and John Jastremski to discuss the likelihood of Aaron Rodgers being traded to the Jets, Daniel Jones\u2019s contract extension, and what Lamar Jackson\u2019s nonexclusive franchise tag indicates about his future and possible new teams (2:12). Then Bill is joined by Sean Fennessey for the annual Oscars Preview. They discuss odds, predictions, their favorite films, and more (55:44).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Sheil Kapadia, John Jastremski and Sean Fennessey</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "6IvRFzXJhYb7NlgCtkTXcF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "Lamar\u2019s Next Move, the Rodgers Sweepstakes, and an Oscars Preview With Sheil Kapadia, John Jastremski, and Sean Fennessey",
+            "release_date": "2023-03-10",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6IvRFzXJhYb7NlgCtkTXcF"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/b4778ec623273cc569225880c0d7bdb441afaf0f",
+            "description": "The Ringer's Bill Simmons is joined by Rob Mahoney to discuss the challenging Suns, and the Nuggets biggest rival in the Western\u00a0Conference (1:45), the Timberwolves rounding into shape, Evan Mobley's development, early playoff thoughts, and more (21:37). Then in an excerpt from The Ringer's Prestige TV Podcast Bill is joined by Joanna Robinson and Derek Thompson to discuss 'Succession' Season 1, Episode 10: \"Nobody Is Ever Missing\" (49:27).Host: Bill SimmonsGuests: Rob Mahoney, Derek Thompson, and Joanna RobinsonProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 6741577,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/5qzAFB6pPWLyGeTiK53XB4"
+            },
+            "href": "https://api.spotify.com/v1/episodes/5qzAFB6pPWLyGeTiK53XB4",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Rob Mahoney to discuss the challenging Suns, and the Nuggets biggest rival in the Western\u00a0Conference (1:45), the Timberwolves rounding into shape, Evan Mobley&#39;s development, early playoff thoughts, and more (21:37). Then in an excerpt from The Ringer&#39;s Prestige TV Podcast Bill is joined by Joanna Robinson and Derek Thompson to discuss &#39;Succession&#39; Season 1, Episode 10: &#34;Nobody Is Ever Missing&#34; (49:27).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Rob Mahoney, Derek Thompson, and Joanna Robinson</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "5qzAFB6pPWLyGeTiK53XB4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "The Scary Suns and Mobley\u2019s Rise With Rob Mahoney, and the Incredible Season 1 Finale of 'Succession' With Derek Thompson and Joanna Robinson",
+            "release_date": "2023-03-08",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:5qzAFB6pPWLyGeTiK53XB4"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/4c4de02ded7d5d50516ea8d44fe625633c5c0f6e",
+            "description": "The Ringer's Bill Simmons is joined by Ryen Russillo to discuss the Knicks double-overtime win vs. the Celtics, as well as the Knicks new ceiling, the 76ers' big win over the Bucks (2:07), Ja Morant's suspension, concerns for each playoff contender (22:19), another Trade History segment: the Ray Allen and Kevin Garnett trades, UFC 285: the Return of Jon Jones (1:24:45), and more.Host: Bill SimmonsGuest: Ryen RussilloProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 7072653,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/7KJAfwCja5YPLkHJ0KNh8y"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7KJAfwCja5YPLkHJ0KNh8y",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Ryen Russillo to discuss the Knicks double-overtime win vs. the Celtics, as well as the Knicks new ceiling, the 76ers&#39; big win over the Bucks (2:07), Ja Morant&#39;s suspension, concerns for each playoff contender (22:19), another Trade History segment: the Ray Allen and Kevin Garnett trades, UFC 285: the Return of Jon Jones (1:24:45), and more.</p><p><br /></p><p>Host: Bill Simmons</p><p>Guest: Ryen Russillo</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "7KJAfwCja5YPLkHJ0KNh8y",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "A Knicks/Celtics Switcheroo, Ja\u2019s Crisis, Harden\u2019s Resurgence and GSW\u2019s Weird Season With Ryen Russillo",
+            "release_date": "2023-03-06",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7KJAfwCja5YPLkHJ0KNh8y"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/686948cc6b533047a256a81eba17bb899cf00686",
+            "description": "The Ringer's Bill Simmons is joined by Ariel Helwani to discuss UFC 285, Jon Jones's first fight since 2020, the current state of the UFC, and more (3:07). Then Bill talks with author Chuck Klosterman about the warranted, and maybe even understated, hype around NBA draft prospect Victor Wembanyama, whether sports records are losing their luster, the NBA MVP debate, the state of college sports, UFOs, the supernatural, and much more! (24:37).Host: Bill SimmonsGuests: Ariel Helwani and Chuck KlostermanProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 6341224,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/3r65TJCgkiqtuR9mX1QkZy"
+            },
+            "href": "https://api.spotify.com/v1/episodes/3r65TJCgkiqtuR9mX1QkZy",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Ariel Helwani to discuss UFC 285, Jon Jones&#39;s first fight since 2020, the current state of the UFC, and more (3:07). Then Bill talks with author Chuck Klosterman about the warranted, and maybe even understated, hype around NBA draft prospect Victor Wembanyama, whether sports records are losing their luster, the NBA MVP debate, the state of college sports, UFOs, the supernatural, and much more! (24:37).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Ariel Helwani and Chuck Klosterman</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "3r65TJCgkiqtuR9mX1QkZy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "Jon Jones\u2019s Last Stand, Wemby\u2019s Ceiling, the Jokic Backlash, and UFOs With Ariel Helwani and Chuck Klosterman",
+            "release_date": "2023-03-03",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:3r65TJCgkiqtuR9mX1QkZy"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/15a7f7810e983f1f329f2fe2846ce92ed8c2f721",
+            "description": "The Ringer's Bill Simmons is joined by Ariel Helwani to discuss the fifth-place Knicks, their recent win streak, their playoff hopes, and more (4:18). Then, Bill is joined by writer, producer, and loyal Boston sports fan Mike Schur to talk about \"sports hating\" the Miami Heat, the uninspiring Boston Red Sox, and the baseball pitch clock (20:05). Finally, Bill talks with Kevin O'Connor and Tate Frazier about the return of 'One Shining Podcast,' yet another bizarre college basketball season, tournament odds, and more (54:13)!Host: Bill SimmonsGuests: Ariel Helwani, Tate Frazier, Kevin O'Connor, and Mike SchurProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 5408862,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/4RSCyj4d8ZSsMSFfAaL3F6"
+            },
+            "href": "https://api.spotify.com/v1/episodes/4RSCyj4d8ZSsMSFfAaL3F6",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Ariel Helwani to discuss the fifth-place Knicks, their recent win streak, their playoff hopes, and more (4:18). Then, Bill is joined by writer, producer, and loyal Boston sports fan Mike Schur to talk about &#34;sports hating&#34; the Miami Heat, the uninspiring Boston Red Sox, and the baseball pitch clock (20:05). Finally, Bill talks with Kevin O&#39;Connor and Tate Frazier about the return of &#39;One Shining Podcast,&#39; yet another bizarre college basketball season, tournament odds, and more (54:13)!</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Ariel Helwani, Tate Frazier, Kevin O&#39;Connor, and Mike Schur</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "4RSCyj4d8ZSsMSFfAaL3F6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "The Surging Knicks, Zombie Heat, and a Bizarre College Hoops Season With Ariel Helwani, Mike Schur, Kevin O\u2019Connor, and Tate Frazier",
+            "release_date": "2023-03-01",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:4RSCyj4d8ZSsMSFfAaL3F6"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/21c3c5d0388b00597aa3b6627aa605281d09a14b",
+            "description": "The Ringer's Bill Simmons is joined by Joe House and David Jacoby to discuss whether the Lakers or Warriors are a better postseason bet, how the rest of the Jazz's season will play out, the Celtics' narrow victory over the 76ers, a tightening MVP race, and more (4:00), before drafting the Most Improbable 2023 NBA Story Lines (So Far) (50:39).Host: Bill SimmonsGuests: Joe House and David JacobyProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 6213877,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/7sryxFS0JXNkHmhOYhb8Jg"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7sryxFS0JXNkHmhOYhb8Jg",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Joe House and David Jacoby to discuss whether the Lakers or Warriors are a better postseason bet, how the rest of the Jazz&#39;s season will play out, the Celtics&#39; narrow victory over the 76ers, a tightening MVP race, and more (4:00), before drafting the Most Improbable 2023 NBA Story Lines (So Far) (50:39).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Joe House and David Jacoby</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "7sryxFS0JXNkHmhOYhb8Jg",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "The Most Improbable 2023 NBA Story Lines Draft (So Far) With Joe House and Dave Jacoby",
+            "release_date": "2023-02-27",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7sryxFS0JXNkHmhOYhb8Jg"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/9e05c4238fce01bcc115953bb3d6a2dc42b8fd01",
+            "description": "The Ringer\u2019s Bill Simmons is joined by Ryen Russillo, and they go through seven tiers of the NBA. In each tier, they pick out which team they like the most going forward and which team they like the least. They wrap up by taking a look back at the 2012 four-team Dwight Howard trade.Host: Bill SimmonsGuest: Ryen RussilloAssociate Producer: Isaiah Blakely Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 5544855,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/7tzEkcOr73jxnXBpEuSymp"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7tzEkcOr73jxnXBpEuSymp",
+            "html_description": "<p>The Ringer\u2019s Bill Simmons is joined by Ryen Russillo, and they go through seven tiers of the NBA. In each tier, they pick out which team they like the most going forward and which team they like the least. They wrap up by taking a look back at the 2012 four-team Dwight Howard trade.</p><p><br /></p><p>Host: Bill Simmons</p><p>Guest: Ryen Russillo</p><p>Associate Producer: Isaiah Blakely</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "7tzEkcOr73jxnXBpEuSymp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "The NBA Midseason Power Poll With Ryen Russillo",
+            "release_date": "2023-02-20",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7tzEkcOr73jxnXBpEuSymp"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/6ca131787bd61e9bc53eb444f7d5fbb17deace7a",
+            "description": "The Ringer's Bill Simmons is joined by Chris Ryan to discuss they 76ers' impressive stretch of games, the top of the Eastern Conference, the Cavaliers buying out Kevin Love, and more (2:53). Steve Ceruti then joins to talk about a rejuvenated Markelle Fultz, as well as the Magic's bright future and offseason (37:51). Finally Bill talks with Michael Pina about Kawhi Leonard seemingly returning to the peak of his powers, the Clippers' trade deadline roster additions, favorite Western Conference teams, and more (58:53).Host: Bill SimmonsGuests: Chris Ryan, Steve Ceruti, and Michael PinaProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 4950752,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/7xinZW2BfjPE9zotD2Fj7o"
+            },
+            "href": "https://api.spotify.com/v1/episodes/7xinZW2BfjPE9zotD2Fj7o",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Chris Ryan to discuss they 76ers&#39; impressive stretch of games, the top of the Eastern Conference, the Cavaliers buying out Kevin Love, and more (2:53). Steve Ceruti then joins to talk about a rejuvenated Markelle Fultz, as well as the Magic&#39;s bright future and offseason (37:51). Finally Bill talks with Michael Pina about Kawhi Leonard seemingly returning to the peak of his powers, the Clippers&#39; trade deadline roster additions, favorite Western Conference teams, and more (58:53).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Chris Ryan, Steve Ceruti, and Michael Pina</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "7xinZW2BfjPE9zotD2Fj7o",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "Philly\u2019s Ceiling, Orlando\u2019s Future, Kawhi\u2019s Present, and Ben Simmons\u2019s Past With Chris Ryan, Steve Ceruti, and Michael Pina",
+            "release_date": "2023-02-17",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:7xinZW2BfjPE9zotD2Fj7o"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/660bdd3307f493afe2c6878e87099b250ac4a66d",
+            "description": "The Ringer's Bill Simmons is joined by Derek Thompson to discuss some of the biggest incorrect predictions for 2022 (2:33) before they make their predictions for the future of tech, food, entertainment, sports, and culture (22:44).Host: Bill SimmonsGuest: Derek ThompsonProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 5122638,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/0zCoa34Ortuwa7vlkPn8FJ"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0zCoa34Ortuwa7vlkPn8FJ",
+            "html_description": "<p>The Ringer&#39;s Bill Simmons is joined by Derek Thompson to discuss some of the biggest incorrect predictions for 2022 (2:33) before they make their predictions for the future of tech, food, entertainment, sports, and culture (22:44).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guest: Derek Thompson</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "0zCoa34Ortuwa7vlkPn8FJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "The Future of Everything 2023 Edition With Derek Thompson",
+            "release_date": "2023-02-15",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0zCoa34Ortuwa7vlkPn8FJ"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/ebdd2aa4fa91954866fee6b6e666cbcfc28ca172",
+            "description": "The Ringer\u2019s Bill Simmons is joined by Cousin Sal to break down the Chiefs' win over the Eagles in Super Bowl LVII, Pat Mahomes\u2019s GOAT potential, the Eagles' defense not showing up, the controversial holding penalty near the end of the game, and what the 2024 Super Bowl odds look like. They close it out with the final Parent Corner of the season.Host: Bill SimmonsGuest: Cousin SalProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 4528848,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/0A2M44Wu0jSqNUaohXeQ44"
+            },
+            "href": "https://api.spotify.com/v1/episodes/0A2M44Wu0jSqNUaohXeQ44",
+            "html_description": "<p>The Ringer\u2019s Bill Simmons is joined by Cousin Sal to break down the Chiefs&#39; win over the Eagles in Super Bowl LVII, Pat Mahomes\u2019s GOAT potential, the Eagles&#39; defense not showing up, the controversial holding penalty near the end of the game, and what the 2024 Super Bowl odds look like. They close it out with the final Parent Corner of the season.</p><p><br /></p><p>Host: Bill Simmons</p><p>Guest: Cousin Sal</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "0A2M44Wu0jSqNUaohXeQ44",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "Never Bet Against Mahomes and Other Super Bowl Lessons With Cousin Sal",
+            "release_date": "2023-02-13",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:0A2M44Wu0jSqNUaohXeQ44"
+        },
+        {
+            "audio_preview_url": "https://p.scdn.co/mp3-preview/1deef18da3552e2e5dd50acfb56cee79e6e04467",
+            "description": "In the second part of our series on 2023 NBA trade deadline reactions, The Ringer\u2019s Bill Simmons is joined by Ryen Russillo and Rob Mahoney minutes after the deadline passes to discuss the Warriors bringing back Gary Payton II, the Clippers shuffling their roster, Russell Westbrook to the Jazz, the strange Nets roster, Josh Hart to the Knicks, questionable trades, best and worst trades, the Lakers' new players, and much more (1:04). Then Bill makes the Million-Dollar Picks for Super Bowl LVII (1:21:41).Host: Bill SimmonsGuests: Ryen Russillo and Rob MahoneyProducer: Kyle Crichton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+            "duration_ms": 5382504,
+            "explicit": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/episode/6axihas7tu4oRnchLgk2rc"
+            },
+            "href": "https://api.spotify.com/v1/episodes/6axihas7tu4oRnchLgk2rc",
+            "html_description": "<p>In the second part of our series on 2023 NBA trade deadline reactions, The Ringer\u2019s Bill Simmons is joined by Ryen Russillo and Rob Mahoney minutes after the deadline passes to discuss the Warriors bringing back Gary Payton II, the Clippers shuffling their roster, Russell Westbrook to the Jazz, the strange Nets roster, Josh Hart to the Knicks, questionable trades, best and worst trades, the Lakers&#39; new players, and much more (1:04). Then Bill makes the Million-Dollar Picks for Super Bowl LVII (1:21:41).</p><p><br /></p><p>Host: Bill Simmons</p><p>Guests: Ryen Russillo and Rob Mahoney</p><p>Producer: Kyle Crichton</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\" rel=\"nofollow\">podcastchoices.com/adchoices</a></p>",
+            "id": "6axihas7tu4oRnchLgk2rc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6765630000ba8a4861ae328cd5834682f56bd7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67656300005f1f4861ae328cd5834682f56bd7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab6765630000f68d4861ae328cd5834682f56bd7",
+                    "width": 64
+                }
+            ],
+            "is_externally_hosted": false,
+            "is_playable": true,
+            "language": "en",
+            "languages": [
+                "en"
+            ],
+            "name": "Part 2: Trade Deadline Reactions With Ryen Russillo and Rob Mahoney. Plus, SB LVII Million-Dollar Picks.",
+            "release_date": "2023-02-09",
+            "release_date_precision": "day",
+            "type": "episode",
+            "uri": "spotify:episode:6axihas7tu4oRnchLgk2rc"
+        }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/shows/07SjDmKb9iliEzpNcN2xGD/episodes?offset=20&limit=20&market=US",
+    "offset": 0,
+    "previous": null,
+    "total": 1113
+}
